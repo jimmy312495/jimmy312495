@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmyb08901017&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmy312495&theme=dark&show_icons=true)
 
 <!--
-**jimmyb08901017/jimmyb08901017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jimmy312495/jimmy312495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
